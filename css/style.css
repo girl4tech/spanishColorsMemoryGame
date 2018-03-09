@@ -1,0 +1,87 @@
+
+
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.alignright {
+	float: right;
+	padding: 0 0 10px 10px; /* note the padding around a right floated image */
+}
+
+.alignleft {
+	float: left;
+	padding: 0 10px 10px 0; /* note the padding around a left floated image */
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+     color: #B331C4;
+     font-size: 12px;
+     line-height: 1.4;
+     font-family: 'Patrick Hand', sans-serif;
+}
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+/* Center the container */
+#container {
+	width: 960px;
+	margin: auto;
+}
+
+.card {
+  float: left;
+  margin: 10px;
+  height: 200px;
+  width: 150px;
+  background: #F9C5E3;
+  text-align: center;
+  border-radius: 4px;
+  box-shadow: 10px 10px 10px #bfbfbf;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.card p {
+  font-size: 30px;
+  color: #0755F2;
+}
+.win h1{
+  font-size: 45px;
+  text-align: center;
+  color: #ef6765;
+  font-family: 'Patrick Hand', sans-serif;
+}
+header h1{
+  color: #531FE2;
+  font-family: 'Patrick Hand', sans-serif;
+  font-size: 30px;
+}
+h2{
+  font-family: 'Patrick Hand', sans-serif;
+}
+#shuffle{
+  color: #58cdcd;
+  font-size: 17px;
+  width: 10%;
+  height: 40px;
+  font-family: 'Patrick Hand', sans-serif;
+}
