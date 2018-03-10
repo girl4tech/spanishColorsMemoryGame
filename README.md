@@ -3,7 +3,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Link to project:** http://live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://kids.nationalgeographic.com/content/dam/kids/photos/games/Hub%20promos/memory.adapt.1900.1.png)
 
 ## How It's Made:
 
