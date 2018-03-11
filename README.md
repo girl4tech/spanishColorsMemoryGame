@@ -3,7 +3,7 @@ This memory game was a timed, morning challenge. The ides was to build a 10 card
 
 **Link to project:** http://live-demos.com/
 
-![alt tag](spanishColorsMemoryGame/spanishMemoryGame.png)
+![alt tag](https://github.com/karina001/spanishColorsMemoryGame/blob/master/spanishMemoryGame.png)
 
 ## How It's Made:
 
