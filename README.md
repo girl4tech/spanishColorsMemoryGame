@@ -1,5 +1,5 @@
 # Spanish Colors Memory Game
-This memory game was a timed, morning challenge. The ides was to build a 10 card memory game, that allows a user to select 2 cards and check if they match. If the cards match, they stay flipped. If not, they flip back over. The memory game is over when all cards are matched and flipped back.
+This memory game was a timed, morning challenge. The idea was to build a 10 card memory game, that allows a user to select 2 cards and check if they match. If the cards match, they stay flipped. If not, they flip back over. The memory game is over when all cards are matched and flipped back.
 
 **Link to project:** http://live-demos.com/
 
@@ -8,26 +8,20 @@ This memory game was a timed, morning challenge. The ides was to build a 10 card
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
-
-To build the card game, I started off with an HTML container and within that HTML container, I added the cards. Next, I applied a few styles on the cards and modified properties like width, height, color, etc. There were a couple of functions that also had to be established. For example, the random shuffle algorithm was a simple but fun aspect of this game. The algorithm involves a variable that loops through the length of an array and generates a random number to shuffle the cards. Another important function was to check if the cards matched. I did this by using the data-* attribute to verify if the value of an HTML element or card, was equal to the value of another card.
+To build the card game, I started off with an HTML container and within that HTML container, I added the cards. Next, I applied a few styles on the cards and modified properties such as width, height, color, etc. There were a couple of functions that also had to be established. For example, the random shuffle algorithm was a simple but fun aspect of this game. The algorithm involves a variable that loops through the length of an array and generates a random number to shuffle the cards. Another important function was to check if the cards matched. I did this by using the data-* attribute to verify if the value of an HTML element or card, was equal to the value of another card.
 
 ## Optimizations
-
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
-
-	⁃	Bonus - for no business cards this week finish your app by 11am w/ shuffling (find a shuffling algorithm online)
-
+If I had more time I would go back and add better styling to the cards or perhaps incorporate gamification techniques to encourage the user to continue playing the game. I would also like to allow the user to switch the theme of the game in real time. For example, the ability to switch from Spanish colors to images of famous soccer players. I'd also like to add a shuffle button so that the user has total control over the shuffle function instead of having it run automatically. 
 
 ## Lessons Learned:
-
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+I gained some decent CSS practice by completing this exercise. 
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at other examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Caesar Cipher Shift Encoder:** https://github.com/
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**WuTangClan Name Generator:** https://github.com/
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**Speech Recognition App:** https://github.com/
 
