@@ -21,7 +21,7 @@ Take a look at other examples that I have in my own portfolio:
 
 **Caesar Cipher Shift Encoder:** https://github.com/karina001/ceasarCipher
 
-**WuTangClan Name Generator:** https://github.com/
+**WuTangClan Name Generator:** https://github.com/karina001/WuTangNameGenerator
 
-**Speech Recognition App:** https://github.com/
+**Speech Recognition App:** https://github.com/karina001/speechRecognitionApp
 
