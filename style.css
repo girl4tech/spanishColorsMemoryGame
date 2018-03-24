@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Patrick Hand', sans-serif;
+}
+h1{
+  font-size:45px;
+  margin-left:8%;
+  color: #552BD9;
+}
+h4{
+  font-size:25px;
+  margin-left:8%;
+  color: #B735BD;
+}
+.container {
+  width: 1080px;
+  margin: 0 auto;
+}
+
+
+.card {
+  float: left;
+  margin: 10px;
+  height: 200px;
+  width: 150px;
+  background: #FBC5E1;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 10px 10px 10px #ccc;
+}
+
+.card:hover {
+  cursor: pointer;
+  border: 3px solid blue;
+}
+
+.card p {
+  font-size: 48px;
+  color: blue;
+}
