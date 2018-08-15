@@ -18,7 +18,7 @@ If I had more time I would go back and add better styling to the cards or perhap
 I gained some decent CSS practice by completing this exercise. 
 
 ## Examples:
-Take a look at other examples that I have in my own portfolio:
+Take a look at other examples in my portfolio:
 
 **Caesar Cipher Shift Encoder:** https://github.com/karina001/ceasarCipher
 
